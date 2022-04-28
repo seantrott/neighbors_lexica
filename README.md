@@ -1,2 +1,6 @@
-# neighbors_lexica
-Analysis of phonological neighborhoods.
+# Homophones and phonological neighborhoods
+
+Code to accompany the paper:
+
+> 
+
