@@ -7,7 +7,7 @@ Code and data to accompany the paper:
 
 ## Analysis code
 
-The code to reproduce the final analyses and figures can be found in the notebook, "Comparing baseline models". 
+The code to reproduce the final analyses and figures can be found in the notebook, ["Comparing baseline models"](https://github.com/seantrott/neighbors_lexica/blob/main/Comparing%20baseline%20models.ipynb). 
 
 This is also available as a static `.html` page in `Comparing baseline models.html`.
 
